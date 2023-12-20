@@ -13,5 +13,5 @@
 - /f list [player]
 - /f requests
 - /f notify
-- /f accept <player>
-- /f deny <player>
+- /f accept \<player\>
+- /f deny \<player\>
