@@ -3,8 +3,7 @@
 ### Information:
 - Created by: CodeDevv_
 - Version: 2.4
-- MC Version: 1.20.1
-- Type: Spigot (BungeeCord Support W.I.P.)
+- Type: BungeeCord Support
 - Config-Info: [optional] <obligatory>
 
 ### Commands:
