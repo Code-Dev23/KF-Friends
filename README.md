@@ -8,8 +8,8 @@
 
 ### Commands:
 - Main Command: /friend (aliases: /f & /friends)
-- /f invite <player>
-- /f remove <player>
+- /f invite \<player\>
+- /f remove \<player\>
 - /f list [player]
 - /f requests
 - /f notify
