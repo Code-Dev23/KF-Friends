@@ -1,0 +1,3 @@
+name: JuiceFriends
+version: '${version}'
+main: it.codedev.juicefriends.JuiceFriends
